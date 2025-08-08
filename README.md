@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> e2ff9e7
 # Personel Yönetim Uygulaması
 
 ## Projede İstenen Özellikler
